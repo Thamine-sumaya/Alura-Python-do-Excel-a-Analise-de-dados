@@ -1,8 +1,8 @@
-<h1>
-    <a href="https://www.alura.com.br/imersao-python-curso-gratuito">
-     <img align="center" width="60px" src="https://github.com/Thamine-sumaya/Imers-o-Analise-de-dados-Alura/blob/main/alura%20logo.jpg?raw=true"></a>
-    <span>  Imersão Alura- Analise de dados</span>
-</h1>
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Thamine-sumaya/Imers-o-Analise-de-dados-Alura/blob/main/Alura%20Capa%20readme.png?raw=true">
+ <source media="(prefers-color-scheme: light)" srcset="https://github.com/Thamine-sumaya/Imers-o-Analise-de-dados-Alura/blob/main/Alura%20Capa%20readme%20light.png?raw=true">
+ <img alt="Logo da Alura, e ao lado um texto escrito 'Imersão Python: Do excel à análise de dados' " src="prefers-color-scheme">
+</picture>
 
 ## Visão Geral
 
@@ -14,13 +14,19 @@ O objetivo principal deste projeto é desenvolver habilidades em manipulação d
 
 ## Projetos da Imersão
 ### Aula 1
-Manipulação de dados em planília Excel, utilização de fôrmulas, adição de dados gerados pelo Chat GPT, criação das colunas: "Variação %", "Valor Inicial (R$)", "Quantidade de Ações", "Variação em Dinheiro (R$)", "Resultado", "Nome da Empresa", "Segmento", "Idade", "Categoria Idade"
+Análise Exploratória com Google Sheets
 
 ### Aula 2
+Gráficos e Análises com Google Colab e Python Pandas
 
 ### Aula 3
+Manipulação de Dados e Criação de Gráficos com bibliotecas Python
 
 ### Aula 4
+Análises Avançadas de Ações e Gráficos de Velas
+
+## Aula 5
+Previsão de Séries Temporais de Ações e Carreiras no Mercado de Dados
 
 
 ## Conteúdo do Repositório
