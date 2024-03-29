@@ -31,7 +31,7 @@ Previsão de Séries Temporais de Ações e Carreiras no Mercado de Dados
 
 ## Conteúdo do Repositório
 
-- **Dados:**  [Planilia Excel]()
+- **Dados:**  [Planilha Excel](https://github.com/Thamine-sumaya/Alura-Python-do-Excel-a-Analise-de-dados/blob/main/C%C3%B3pia%20de%20%5BFa%C3%A7a%20uma%20c%C3%B3pia%20para%20editar%5D%20Imers%C3%A3o%20Python%20-%20Tabela%20de%20a%C3%A7%C3%B5es%20(4).xlsx)
 
 - **Código:**
 
