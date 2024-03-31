@@ -16,6 +16,10 @@ O objetivo principal deste projeto é desenvolver habilidades em manipulação d
 ### Aula 1
 Análise Exploratória com Google Sheets
 
+<a href="google.com">
+   <img src="https://github.com/Thamine-sumaya/Alura-Python-do-Excel-a-Analise-de-dados/blob/main/bot%C3%A3o%20anota%C3%A7%C3%B5es%20notion-.png?raw=true" alt="anotações" width="150" >
+</a>
+
 ### Aula 2
 Gráficos e Análises com Google Colab e Python Pandas
 
