@@ -26,11 +26,12 @@ para a execução dos códigos dentro do VScode, é necessário instalar as segu
 - mplfinance
 - yfinance
 - prophet
+- openpyxl
 
 ## Como instalar
 
 Abra o terminal e escreva o seguinte código
 
-`python -m pip install pandas plotly matplotlib mplfinance yfinance prophet`
+`python -m pip install pandas plotly matplotlib mplfinance yfinance prophet openpyxl`
 
 OBS: para utilizar os códigos no google colab, não há necessidade de baixar as bibliotecas necessárias
