@@ -1,4 +1,4 @@
-# Requerimentos necessários:
+# Requisitos necessários:
 
 ## Linguagem:
 
