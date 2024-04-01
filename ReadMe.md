@@ -1,6 +1,6 @@
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Thamine-sumaya/Imers-o-Analise-de-dados-Alura/blob/main/Alura%20Capa%20readme.png?raw=true">
- <source media="(prefers-color-scheme: light)" srcset="https://github.com/Thamine-sumaya/Imers-o-Analise-de-dados-Alura/blob/main/Alura%20Capa%20readme%20light.png?raw=true">
+ <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Thamine-sumaya/Alura-Python-do-Excel-a-Analise-de-dados/blob/main/imagens/Alura%20Capa%20readme.png?raw=true">
+ <source media="(prefers-color-scheme: light)" srcset="https://github.com/Thamine-sumaya/Alura-Python-do-Excel-a-Analise-de-dados/blob/main/imagens/Alura%20Capa%20readme%20light.png?raw=true">
  <img alt="Logo da Alura, e ao lado um texto escrito 'Imersão Python: Do excel à análise de dados' " src="prefers-color-scheme">
 </picture>
 
@@ -14,7 +14,7 @@ O objetivo principal deste projeto é desenvolver habilidades em manipulação d
 
 ## Projetos da Imersão
 <a href="">
-   <img src="https://github.com/Thamine-sumaya/Alura-Python-do-Excel-a-Analise-de-dados/blob/main/anota%C3%A7%C3%B5es%20dark%20mode.png?raw=true" alt="anotações" width="100" >
+   <img src="https://github.com/Thamine-sumaya/Alura-Python-do-Excel-a-Analise-de-dados/assets/160533319/4ddc601f-fe4f-4ef2-b577-95adc85bde66" alt="anotações" width="100" >
 </a>
 
 ### Aula 1
