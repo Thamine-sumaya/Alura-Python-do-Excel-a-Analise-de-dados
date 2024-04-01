@@ -6,7 +6,7 @@
 
 ## Visão Geral
 
-Este repositório contém o código e os arquivos relacionados ao projeto proporcionado pela imersão Alura de análise de dados. O projeto foi desenvolvido como parte desafio específico e aborda questões de análise de dados com a finalidade de alcançar objetivos específicos.
+Este repositório contém o código e os arquivos relacionados ao projeto proporcionado pela imersão Alura de análise de dados. O projeto foi desenvolvido como parte desafio específico e aborda questões de análise de dados com a finalidade de introduzir os principais fundamentos por meio da prática.
 
 ## Objetivo
 
