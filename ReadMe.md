@@ -37,9 +37,7 @@ Previsão de Séries Temporais de Ações e Carreiras no Mercado de Dados
 
 - **Dados:**  [Planilha Excel](https://github.com/Thamine-sumaya/Alura-Python-do-Excel-a-Analise-de-dados/blob/main/C%C3%B3pia%20de%20%5BFa%C3%A7a%20uma%20c%C3%B3pia%20para%20editar%5D%20Imers%C3%A3o%20Python%20-%20Tabela%20de%20a%C3%A7%C3%B5es%20(4).xlsx)
 
-- **Código:**
-
-- **Resultados:** Qualquer resultado gerado pelo projeto, como arquivos CSV, gráficos ou relatórios, são armazenados aqui.
+- **Código:** [Jupter Notebook](https://github.com/Thamine-sumaya/Alura-Python-do-Excel-a-Analise-de-dados/blob/main/Imers%C3%A3o%20Python.ipynb)
 
 ## Ferramentas 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -53,7 +51,7 @@ Previsão de Séries Temporais de Ações e Carreiras no Mercado de Dados
 Para reproduzir os resultados ou experimentar com o código, siga estas etapas:
 
 1. Clone este repositório para o seu ambiente local usando `git clone`.
-2. Instale as dependências necessárias listadas no arquivo [`requirements.md`]().
+2. Instale as dependências necessárias listadas no arquivo [`requirements.md`](https://github.com/Thamine-sumaya/Alura-Python-do-Excel-a-Analise-de-dados/blob/main/requeriments.md).
 3. Execute os códigos para reproduzir os resultados ou fazer modificações conforme necessário.
 
 ## Contribuição
