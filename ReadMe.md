@@ -13,9 +13,9 @@ Este repositório contém o código e os arquivos relacionados ao projeto propor
 O objetivo principal deste projeto é desenvolver habilidades em manipulação de dados em planílias Excel e Python.
 
 ## Projetos da Imersão
-<a href="">
+<!---<a href="">
    <img src="https://github.com/Thamine-sumaya/Alura-Python-do-Excel-a-Analise-de-dados/assets/160533319/4ddc601f-fe4f-4ef2-b577-95adc85bde66" alt="anotações" width="100" >
-</a>
+</a>--->
 
 ### Aula 1
 Análise Exploratória com Google Sheets
