@@ -40,12 +40,12 @@ Previsão de Séries Temporais de Ações e Carreiras no Mercado de Dados
 - **Código:** [Jupter Notebook](https://github.com/Thamine-sumaya/Alura-Python-do-Excel-a-Analise-de-dados/blob/main/Imers%C3%A3o%20Python.ipynb)
 
 ## Ferramentas 
-![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
-![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-000000?style=for-the-badge&logo=microsoft-excel&logoColor=384fff)
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-000000.svg?style=for-the-badge&logo=jupyter&logoColor=384fff)
+![Python](https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python&logoColor=384fff)
+![Pandas](https://img.shields.io/badge/pandas-000000.svg?style=for-the-badge&logo=pandas&logoColor=384fff)
+![Plotly](https://img.shields.io/badge/Plotly-000000.svg?style=for-the-badge&logo=plotly&logoColor=384fff)
+![Google Sheets](https://img.shields.io/badge/Google%20Sheets-000000?style=for-the-badge&logo=google-sheets&logoColor=384fff)
 
 
 ## Como Utilizar
